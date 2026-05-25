@@ -1,0 +1,6 @@
+{
+  "name": "Creative Card Code Editor",
+  "description": "Playground interattivo per creare card speciali (fogli, lavagne, computer, blocknote) con codice puro, CSS live e anteprima dinamica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
